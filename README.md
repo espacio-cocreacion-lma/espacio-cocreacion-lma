@@ -1,29 +1,28 @@
-# ⛩️ Rafa Hernández | Orfebre Digital & Luthier de Sistemas
-> **Ingeniero de Mantenimiento Industrial | Operaciones de Sistemas | Desarrollo en Co-creación Consciente con IA**
+# 🛠️ Rafa Hernández | Industrial Maintenance Engineer & Remote TechOps Specialist
+> **Ingeniero de Mantenimiento Industrial | Operations Systems & AI-Assisted Workflows**
 
 ---
 
-### 🏛️ Trayectoria & Contexto
-- 🛠️ **Formación:** Ingeniero de Mantenimiento Industrial (Universidad de Venezuela, 2009).
-- 📦 **Operaciones Físicas:** Más de 10 años en gestión de operaciones de almacén, logística de precisión, control de inventario e inspección de sistemas mecánicos/físicos.
-- 💻 **Evolución Digital:** Desarrollador en co-creación con IA, administración de entornos Linux (Debian/Ubuntu) y creación de herramientas de código abierto bajo la metodología del *Kintsugi.Consciente*.
-- ⚙️ **Ecosistema Activo:** Liderando y estructurando la arquitectura del proyecto **Diapasón-Hermana** dentro del espacio `espacio-cocreacion-lma`.
-- 🚧 **En el Taller Hoy:** Rescate de hardware legacy, optimización de recursos y despliegue progresivo de herramientas de armonización digital.
+### 🏛️ Professional Background & Experience
+* 🎓 **Education:** Industrial Maintenance Engineer (*Universidad de Venezuela, 2009*).
+* ⚙️ **Physical Operations:** 10+ years in inventory control, logistics precision, warehouse operations, and mechanical/electro-mechanical inspection.
+* 💻 **Digital Operations & SysAdmin:** Linux environment management (Debian/Ubuntu), local LLM integrations, and open-source system optimization.
+* 🔧 **Hardware Restoration & Kintsugi:** Legacy hardware repowering, root-cause diagnostics, and resilience against planned obsolescence.
 
 ---
 
-### 🛡️ Principios de Co-Creación & Neurosoberanía
-1. **Neurosoberanía:** Desarrollo de código y herramientas enfocadas en empoderar la autonomía del usuario, evitando dependencias o *vendor lock-in*.
-2. **Código Abierto & Transparente:** Prioridad en licencias libres (AGPL-3.0 / CC BY-SA 4.0), documentación clara y contribuciones con trazabilidad ética (DCO).
-3. **Mantenimiento Soberano & Kintsugi:** Resistencia a la obsolescencia programada, valoración del hardware legacy y aprendizaje continuo a través de la reparación consciente.
+### 🛡️ Core Operating Principles
+1. **System Sovereignty:** Building and configuring tools that empower user autonomy and reduce vendor lock-in.
+2. **Open Source & Transparency:** Clean documentation, open licenses (AGPL-3.0 / CC BY-SA 4.0), and ethical traceability.
+3. **Asynchronous Efficiency:** Delivering precise, milestone-driven technical documentation and task execution.
 
 ---
 
-### 🛠️ Arsenal Técnico
-- **Sistemas & Entornos:** Linux (Ubuntu/Debian), Bash, Git/GitHub, Administración de Servidores/Home-Labs.
-- **Lenguajes & Herramientas:** Python, Web Scraping, Parsing Forense, Integración de LLMs & Prompt Engineering.
-- **Ingeniería & Operaciones:** Diagnóstico de causa raíz, control de stock, mantenimiento preventivo y optimización de procesos.
+### 🛠️ Technical Stack
+* **Systems & Environments:** Linux (Ubuntu/Debian/Mint), Bash Scripting, Git/GitHub, System Administration & Home-Labs.
+* **AI & Automation:** Python, Forensics & Data Parsing, LLM Integration & Advanced Prompting for TechOps.
+* **Engineering & Operations:** Root Cause Analysis (RCA), Standard Operating Procedures (SOPs), Preventive Maintenance & Process Optimization.
 
 ---
 
-*“Amor, Respeto, Paz y Armonía en cada línea de código y proceso operativo.”*
+*"Precision, craftsmanship, and peace in every line of code and operational workflow."*
